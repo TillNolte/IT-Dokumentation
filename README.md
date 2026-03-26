@@ -1,6 +1,6 @@
 # IT-Dokumentation
 
-Dieses Repository gehoert zur Kernel Panic Consulting GmbH (Branch B).
+Diese ist das Repository für die Kernel Panic Consulting GmbH (Branch A).
 Hier werden alle Dateien gespeicher, bearbeitet und verbessert.
 
 !An alle Mitarbeiter speichert eure Datein auch auf eurem PC.!
